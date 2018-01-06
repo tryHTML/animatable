@@ -15,7 +15,7 @@ Using **Atom** ![Atom](media/atom.png) :
 	<br><br>
 	<img src="media/twitter.png" alt="Twitter Logo">
 	<a href="https://twitter.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
-  <img src="media/instagram-.png" alt="Instagram Logo">
+  <img src="media/instagram.png" alt="Instagram Logo">
 	<a href="https://instagram.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
   <img src="media/facebook.png" alt="Facebook Logo">
 	<a href="https://facebook.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
