@@ -2,7 +2,7 @@
 
 # Installation
 
-Using **Atom** :atom: :
+Using **Atom** ![Atom](media/atom.png) :
 
 >Themes can be installed and changed from the **`Settings View`** which you can open by selecting
 
