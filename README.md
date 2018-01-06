@@ -17,7 +17,7 @@ Using **Atom** :atom: :
 	<a href="https://twitter.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
   <img src="https://png.icons8.com/color/24/000000/instagram-new.png" alt="Instagram Logo">
 	<a href="https://instagram.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
-  <img src="https://png.icons8.com/color/24/000000/facebook.png" alt="Facebook Logo">
+  <img src="media/facebook.png" alt="Facebook Logo">
 	<a href="https://facebook.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
 	<br><br>
   
