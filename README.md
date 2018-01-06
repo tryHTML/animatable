@@ -2,9 +2,9 @@
 
 # Installation
 
-Using Atom :atom: :
+Using **Atom** :atom: :
 
->Themes can be installed and changed from the Settings View which you can open by selecting
+>Themes can be installed and changed from the **`Settings View`** which you can open by selecting
 
 1. `Atom > Preferences` menu, and clicking the<br>
 1. `Install` tab and select the<br>
