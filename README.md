@@ -1,4 +1,4 @@
-# try-HTML theme for [Atom](https://atom.io)
+# try HTML theme for [Atom](https://atom.io)
 
 # Installation
 
