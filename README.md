@@ -11,15 +11,10 @@ Using **Atom** ![Atom](media/atom.png) :
 1. `Themes` button on the left hand navigation.<br>
 # Social
 
-<h4 align="left">
-	<br><br>
-	<img src="media/twitter.png" alt="Twitter Logo">
-	<a href="https://twitter.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
-  <img src="media/instagram.png" alt="Instagram Logo">
-	<a href="https://instagram.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
-  <img src="media/facebook.png" alt="Facebook Logo">
-	<a href="https://facebook.com/tryhtml">@tryHTML</a>&nbsp;&nbsp;&nbsp;
-	<br><br>
+>[![Twitter](media/twitter.png)](https://twitter.com/tryhtml)
+>[![Instagram](media/instagram.png)](https://instagram.com/tryhtml)
+>[![Facebook](media/facebook.png)](https://facebook.com/tryhtml)
+
   
 # License
 
