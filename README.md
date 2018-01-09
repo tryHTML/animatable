@@ -1,4 +1,7 @@
 # try HTML theme for [Atom](https://atom.io)
+## Let's code in **Indago**
+
+![Trailer](media/atom-ad.gif)
 
 # Installation
 
