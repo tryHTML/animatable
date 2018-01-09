@@ -20,7 +20,7 @@ Using **Atom** ![Atom](media/atom.png) :
 
 # Contributors
 
-[![Carlos Abraham](https://git.io/Abraham-logo)](https://github.com/19cah) | 
+[![Carlos Abraham](https://avatars3.githubusercontent.com/u/21347264?s=100&v=43&s)](https://github.com/19cah) | 
 --- |
 [Carlos Abraham](https://github.com/19cah) |
 
