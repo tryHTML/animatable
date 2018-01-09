@@ -20,6 +20,9 @@ Using **Atom** ![Atom](media/atom.png) :
 
 # Contributors
 
+[![Carlos Abraham](https://git.io/Abraham-logo)](https://github.com/19cah) | 
+--- |
+[Carlos Abraham](https://github.com/19cah) |
 
 
 # License
