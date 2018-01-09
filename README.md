@@ -1,6 +1,7 @@
 # try HTML theme for [Atom](https://atom.io)
 
-<h3> Let's code in <a href="#"><font color="FF00CC">Indigo</font></a></h3>
+### Let's code in **Indigo**
+
 
 ![Trailer](media/atom-ad.gif)
 
