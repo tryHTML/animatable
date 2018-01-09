@@ -27,4 +27,4 @@ Using **Atom** ![Atom](media/atom.png) :
 
 # License
 
-The tryHTML theme for [Atom](https://atom.io) is licensed under [MIT license](LICENSE).
+The **tryHTML** syntax theme for [Atom](https://atom.io) is licensed under [MIT license](LICENSE).
