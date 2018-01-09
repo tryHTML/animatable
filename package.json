@@ -1,0 +1,27 @@
+{
+  "name": "tryhtml-atom-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Let's code in indigo",
+  "author": {
+		"name": "Try HTML",
+		"email": "support@tryhtml.org",
+		"url": "http://themes.tryhtml.org"
+	},
+  "contributors": [{
+  "name": "Carlos Abraham <@19cah>",
+  "email": "abraham@19cah.com"
+}],
+  "keywords": [
+    "syntax",
+    "theme",
+    "tryhtml",
+    "tryhtml-atom",
+    "atom-syntax"
+  ],
+  "repository": "https://github.com/tryhtml/atom-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
