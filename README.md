@@ -1,12 +1,12 @@
 # try HTML theme for [Atom](https://atom.io)
 
-<h3> Let's code in </h3><h3><b>Indigo</b></h3>
+<h3> Let's code in <a style="color: red" href="#"><b>Indigo</b></a></h3>
 
 ![Trailer](media/atom-ad.gif)
 
 # Installation
 
-Using **Atom** ![Atom](media/atom.png) :
+Using ![Atom](media/atom.png) **Atom**  :
 
 >Themes can be installed and changed from the **`Settings View`** which you can open by selecting
 
