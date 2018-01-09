@@ -1,5 +1,6 @@
 # try HTML theme for [Atom](https://atom.io)
-## Let's code in **Indago**
+
+<h3> Let's code in <b>Indago</b></h3>
 
 ![Trailer](media/atom-ad.gif)
 
