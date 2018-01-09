@@ -18,7 +18,10 @@ Using **Atom** ![Atom](media/atom.png) :
 >[![Instagram](media/instagram.png)](https://instagram.com/tryhtml)
 >[![Facebook](media/facebook.png)](https://facebook.com/tryhtml)
 
-  
+# Contributors
+
+
+
 # License
 
 The tryHTML theme for [Atom](https://atom.io) is licensed under [MIT license](LICENSE).
