@@ -3,6 +3,10 @@
 
 > TryHTML theme for [Atom](https://atom.io). Let's code in Indigo.
 
+[![apm](https://img.shields.io/apm/dm/tryhtml-atom-syntax.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-syntax) 
+[![apm](https://img.shields.io/apm/v/tryhtml-atom-syntax.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-syntax) 
+[![apm](https://img.shields.io/apm/l/tryhtml-atom-syntax.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-syntax)
+
 
 ![Trailer](media/screenshot.gif)
 
