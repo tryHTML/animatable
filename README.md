@@ -1,9 +1,7 @@
 ![Atom Syntax](media/atom-syntax.png)
 
 
-> try HTML theme for [Atom](https://atom.io)
-
-### Let's code in **Indigo**
+> TryHTML theme for [Atom](https://atom.io). Let's code in Indigo.
 
 
 ![Trailer](media/screenshot.gif)
@@ -22,6 +20,10 @@ Using ![Atom](media/atom.png) **Atom**  :
 >[![Twitter](media/twitter.png)](https://twitter.com/tryhtml)
 >[![Instagram](media/instagram.png)](https://instagram.com/tryhtml)
 >[![Facebook](media/facebook.png)](https://facebook.com/tryhtml)
+
+# Donate
+
+[![Become a Patreon](media/patreon.png)](https://www.patreon.com/bePatron?u=10553679)
 
 # Contributors
 
