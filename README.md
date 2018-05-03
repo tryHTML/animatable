@@ -1,4 +1,7 @@
-# try HTML theme for [Atom](https://atom.io)
+![Atom Syntax](media/atom-syntax.png)
+
+
+> try HTML theme for [Atom](https://atom.io)
 
 ### Let's code in **Indigo**
 
