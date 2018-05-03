@@ -1,7 +1,11 @@
 {
   "name": "atom-syntax",
   "theme": "syntax",
+<<<<<<< HEAD
   "version": "0.2.0",
+=======
+  "version": "0.0.0",
+>>>>>>> 244a9d9c9cabf9f5cf42cc1180ac085e06baaddc
   "description": "An indigo syntax theme for Atom",
   "author": {
     "name": "Try HTML",
