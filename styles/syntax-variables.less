@@ -1,10 +1,10 @@
 @import "colors";
 
 /* General colors*/
-@syntax-text-color: @light-indigo;//
-@syntax-cursor-color: @white;
+@syntax-text-color: @light-indigo;
+@syntax-cursor-color: @white; //Cursor
 @syntax-selection-color: lighten(@indigo, 7%); //Selection
-@syntax-background-color: @mate-indigo;/* @extra-dark-indigo; //background*/
+@syntax-background-color: lighten(@mate-indigo, 2%); //background
 
 /* Guide colors*/
 @syntax-wrap-guide-color: @dark-indigo; //Lines
@@ -18,7 +18,7 @@
 /* Gutter colors */
 @syntax-gutter-text-color: @very-light-gray;
 @syntax-gutter-text-color-selected: @syntax-gutter-text-color;
-@syntax-gutter-background-color: @dark-gray;
+@syntax-gutter-background-color: @darken-indigo;
 @syntax-gutter-background-color-selected: @gray;
 
 /* For git diff info. i.e. in the gutter */

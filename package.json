@@ -1,5 +1,5 @@
 {
-  "name": "tryhtml-atom-syntax",
+  "name": "atom-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "An indigo syntax theme for Atom",

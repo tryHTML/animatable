@@ -59,10 +59,10 @@ atom-text-editor {
 }
 
 .syntax--keyword {
-  color: @purple;
+  color: @yellow;
 
   &.syntax--control {
-    color: @purple;
+    color: @red;
   }
 
   &.syntax--operator {
@@ -103,7 +103,7 @@ atom-text-editor {
 }
 
 .syntax--variable {
-  color: @light-blue;
+  color: @dark-pink;
 
   &.syntax--interpolation {
     color: darken(@red, 10%);
@@ -120,7 +120,7 @@ atom-text-editor {
 }
 
 .syntax--string {
-  color: @green;
+  color: @green-string;
 
 
   &.syntax--regexp {
@@ -139,7 +139,7 @@ atom-text-editor {
 .syntax--punctuation{
   &.syntax--definition {
     &.syntax--comment {
-      color: @light-gray;
+      color: @comments-lighter;
     }
 
     &.syntax--string,
@@ -194,7 +194,7 @@ atom-text-editor {
   }
 
   &.syntax--other.syntax--inherited-class {
-    color: @green;
+    color: @red;
   }
   &.syntax--name.syntax--class, &.syntax--name.syntax--type.syntax--class {
     color: @light-orange;
