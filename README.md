@@ -3,7 +3,7 @@
 
 > TryHTML theme for [Atom](https://atom.io). Let's code in Indigo.
 
-[![Tryhtml-bandage](media/atom-theme.svg)](https://github.com/tryhtml)
+[![Tryhtml-bandage](https://imagestryht.ml/themes/atom/atom-theme-badge.svg)](https://github.com/tryhtml)
 [![apm](https://img.shields.io/apm/dm/tryhtml-atom-syntax.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-syntax) 
 [![apm](https://img.shields.io/apm/v/tryhtml-atom-syntax.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-syntax) 
 [![apm](https://img.shields.io/apm/l/tryhtml-atom-syntax.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-syntax)
@@ -35,6 +35,10 @@ Using ![Atom](media/atom.png) **Atom**  :
 # Donate
 
 [![Become a Patreon](media/patreon.png)](https://www.patreon.com/bePatron?u=10553679)
+
+# Related
+
+- [TryHTML UI Syntax](https://github.com/tryhtml/atom-ui) Theme.
 
 # Contributors
 
