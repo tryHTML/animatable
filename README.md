@@ -17,9 +17,15 @@ Using ![Atom](media/atom.png) **Atom**  :
 
 >Themes can be installed and changed from the **`Settings View`** which you can open by selecting
 
-1. `Atom > Preferences` menu, and clicking the<br>
+1. `Atom` → `Preferences` menu, and clicking the<br>
 1. `Install` tab and select the<br>
 1. `Themes` button on the left hand navigation.<br>
+1. Search for `tryhtml-atom-syntax` on Syntax Theme
+
+> From Terminal
+
+`$ apm install tryhtml-atom-syntax`
+
 # Social
 
 >[![Twitter](media/twitter.png)](https://twitter.com/tryhtml)
