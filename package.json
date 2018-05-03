@@ -2,7 +2,7 @@
   "name": "tryhtml-atom-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "Let's code in indigo",
+  "description": "An indigo syntax theme for Atom",
   "author": {
 		"name": "Try HTML",
 		"email": "support@tryhtml.org",
@@ -19,7 +19,7 @@
     "tryhtml-atom",
     "atom-syntax"
   ],
-  "repository": "https://github.com/tryhtml/atom.git",
+  "repository": "https://github.com/tryhtml/atom-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
