@@ -9,7 +9,7 @@
 [![apm](https://img.shields.io/apm/l/tryhtml-atom-syntax.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-syntax)
 
 
-![Trailer](media/screenshot.gif)
+![Trailer](media/screenshot.png)
 
 # Installation
 
