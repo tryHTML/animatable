@@ -6,7 +6,7 @@
 ### Let's code in **Indigo**
 
 
-![Trailer](media/atom-ad.gif)
+![Trailer](media/screenshot.gif)
 
 # Installation
 
