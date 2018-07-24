@@ -40,11 +40,11 @@ Using ![Atom](https://imagestryht.ml/themes/atom/atom.png) **Atom**  :
 
 - [TryHTML UI Syntax](https://github.com/tryhtml/atom-ui) Theme.
 
-# Contributors
+# Team
 
-[![Carlos Abraham](https://avatars3.githubusercontent.com/u/21347264?s=100&v=43&s)](https://github.com/19cah) | 
+[![Carlos Abraham](https://avatars3.githubusercontent.com/u/21347264?s=100&v=43&s)](https://github.com/abranhe) | 
 --- |
-[Carlos Abraham](https://github.com/19cah) |
+[Carlos Abraham](https://github.com/abranhe) |
 
 
 # License
